@@ -1,0 +1,226 @@
+.top-nav .navbar-light .navbar-nav .nav-link{color: #fff;font-size: 13px;letter-spacing: 0.5px;transition: all ease 0.5s;}
+.left-content p{padding: 10px;color: #fff;font-size: 13px;font-weight: normal;}
+.left-content p span{display:block;}
+.login-form-top{margin:60px 0px;}
+.login-content h3{color:#262d44; font-size:24px;text-transform: uppercase;}
+
+.contact-info ul li:hover .icon{border: 1px dashed #5e2936;background-color:transparent;color:#5e2936;}
+.overview-menu {display: table;width: 100%;}
+.filters {width: 204px;display: table-cell;background: #e6e6e6;vertical-align: top;padding-bottom: 30px;}
+.school-title {background-color: #dddddd;padding: 20px 10px;}
+.school-logo {width: 120px;height: 120px;background-color: #fff;border-radius: 50%;text-align: center;display: flex;align-items: center;justify-content: center;margin: 0px auto;border: 2px solid #343434;}
+.school-title h3 {font-size: 16px;text-align: center;margin-top: 15px;color: #000;margin-bottom: 0;}
+.left-menu ul {list-style-type: none;padding: 0;margin: 0;}
+.left-menu li a {display: block;padding: 15px 20px;color: #646464;font-weight: 700;font-size: 14px;text-transform: uppercase;}
+.left-menu li a.active {background: #636564;color: #fff;}
+.contain_section {padding: 0 0 50px 20px;display: table-cell;vertical-align: top;}
+.page-heading {font-size: 24px;text-transform: uppercase;font-weight: 600;color: #767678; border-bottom: 3px solid #117d0c;margin: 40px 0 6px;line-height: 36px;}
+.dashboard {padding: 15px;border-radius: 4px;margin-bottom: 30px;}
+.dashboard.c-1 {background-color: #f34336;}
+.dashboard.c-2 {background-color: #4caf50;}
+.dashboard.c-3 {background-color: #2195f2;}
+.dashboard.c-4 {background-color: #fe5722;}
+.dashboard.c-5 {background-color: #413a8a;}
+.dashboard.c-6 {background-color: #01b985;}
+.dashboard.c-7 {background-color: #009ec3;}
+.dashboard .icon-number .number {flex: 0 0 40px;height: 40px;background-color: #555555;border-radius: 50%;text-align: center;}
+.number p{color: #fff;font-size: 18px;padding: 8px 0px;}
+.dashboard a {text-align: right;display: block;font-size: 13px;text-transform: uppercase;font-weight: 500;color: #fff;margin-top: 10px;}
+.mid_steps {background: #f5f5f5;border-top: 3px solid #cccccc;padding: 0 20px 5px;float: left;width: 100%;margin-top: 20px;}
+.form-heading h4 {font-size: 16px;font-weight: 600;color: #767678;margin: 20px 0px 20px;text-transform: uppercase;margin: 20px 0px;}
+.mid_steps .form-group {position: relative;margin-bottom: 20px;}
+.mid_steps .form-group label {text-transform: capitalize;font-weight: 500;color: #636564;font-size: 15px;}
+.mid_steps .form-group .form-control {background-color: #fff;color: #333;font-weight: 500;min-height: 39px;font-size: 14px;padding-right: 35px;}
+.mid_steps .form-group label sup {font-family: 'Open Sans';font-size: 14px;top: -2px;}
+.sr-drop-form:before {content: "";position: absolute;border: 7px solid transparent;border-top: 7px solid #5e2936;right: 11px;z-index: 10;top: 50%;transform: translatey(-30%);pointer-events: none;}
+.steps-form .buttons .btn_border {width: 161px;height: 47px;line-height: 47px;}
+
+.btn_border {
+    min-width: 175px;height: 50px;line-height: 50px;font-size: 16px;
+    text-transform: uppercase;border-radius: 30px;font-weight: 700;letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    border: 2px solid #04518c;
+    background: transparent;
+    color: #04518c;
+    text-align: center;
+}
+
+/*.btn_border:hover{background-color:#333;color:#fff;}*/
+.sr-drop-form {position: relative;}
+
+
+p:last-of-type {
+    margin-bottom: 0;
+}
+p {
+    line-height: 24px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.dashboard .icon-number .number {
+    flex: 0 0 40px;
+    height: 40px;
+    background-color: #555555;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.left-menu li a.active {
+    background: #636564;
+    color: #fff;
+}
+
+.left-menu ul li a:hover{
+    text-decoration: none;
+}
+
+.btn_border:hover {
+    /* background-color: #333; */
+    background: linear-gradient(to right, #04518c 0%,#00a1d9 33%,#47d9bf 100%);
+    color: #fff;
+}
+
+.mt-5{
+    margin-top:3em;
+}
+
+.float-right{
+    float:right;
+}
+
+/*
+
+.photo {
+    display: flex;
+    align-items: center;
+}
+
+.mb-2, .my-2 {
+    margin-bottom: .5rem!important;
+}
+
+.coustom-input {
+    height: 120px;
+    width: 120px;
+    position: relative;
+    border: 2px dashed #ccc;
+    border-radius: 4px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.p-bar {
+    display: block;
+    z-index: 9999;
+    border-radius: 0px;
+}
+
+.progress {
+    position: relative;
+    width: 100%;
+}
+
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+}
+
+.edit_img .coustom-input .custom-file-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.custom-file-input {
+    color: transparent;
+     position: absolute; 
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+
+
+button, input {
+    overflow: visible;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.content {
+    padding: 0px 0px 0px 25px;
+}
+
+.content h6 {
+    font-size: 15px;
+    color: #333;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.content p {
+    font-size: 13px;
+    color: #6e6e6e;
+}
+p:last-of-type {
+    margin-bottom: 0;
+}
+p {
+    line-height: 24px;
+    color: #444;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+*/
+
+.invalid-feedback {
+    color: red;
+    font-size: 12px;
+}
+
+.validation-error {
+    color: red;
+    font-size: 12px;
+}
+
+b, strong {
+    font-weight: bolder;
+}
+
+
+/**/
