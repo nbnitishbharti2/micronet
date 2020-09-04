@@ -40,7 +40,7 @@
                 data-splitin="none" 
                 data-splitout="none" 
                 data-responsive_offset="on"
-                style="z-index: 7; white-space: nowrap; font-weight:700;">RepairPro
+                style="z-index: 7; white-space: nowrap; font-weight:700;">Micronet Services
               </div>
 
               <!-- LAYER NR. 2 -->
@@ -65,7 +65,7 @@
                 data-splitin="none" 
                 data-splitout="none" 
                 data-responsive_offset="on"
-                style="z-index: 7; white-space: nowrap; font-weight:600;">The Best ComputerRepair Services 
+                style="z-index: 7; white-space: nowrap; font-weight:600;">The Best Computer Repair Services in Patna
               </div>
 
               <!-- LAYER NR. 3 -->
@@ -94,7 +94,7 @@
               </div>
 
               <!-- LAYER NR. 4 -->
-              <div class="tp-caption tp-resizeme" 
+              {{-- <div class="tp-caption tp-resizeme" 
                 id="rs-1-layer-4"
 
                 data-x="['left']"
@@ -114,7 +114,7 @@
                 data-splitout="none" 
                 data-responsive_offset="on"
                 style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored border-left-theme-color-2-6px pl-20 pr-20" href="#">View Details</a> 
-              </div>
+              </div> --}}
             </li>
 
             <!-- SLIDE 2 -->
@@ -199,7 +199,7 @@
               </div>
 
               <!-- LAYER NR. 4 -->
-              <div class="tp-caption tp-resizeme" 
+              {{-- <div class="tp-caption tp-resizeme" 
                 id="rs-2-layer-4"
 
                 data-x="['center']"
@@ -219,7 +219,7 @@
                 data-splitout="none" 
                 data-responsive_offset="on"
                 style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-default btn-circled btn-transparent pl-20 pr-20" href="#">Learn More</a> 
-              </div>
+              </div> --}}
             </li>
 
             <!-- SLIDE 3 -->
@@ -304,7 +304,7 @@
               </div>
 
               <!-- LAYER NR. 4 -->
-              <div class="tp-caption tp-resizeme" 
+              {{-- <div class="tp-caption tp-resizeme" 
                 id="rs-3-layer-4"
 
                 data-x="['right']"
@@ -324,7 +324,7 @@
                 data-splitout="none" 
                 data-responsive_offset="on"
                 style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored btn-theme-colored border-right-theme-color-2-6px pl-20 pr-20" href="#">Order Now</a> 
-              </div>
+              </div> --}}
             </li>
 
           </ul>
@@ -460,8 +460,8 @@
               <div class="sm-height-auto bg-theme-colored-lighter2">
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
-                    <a class="icon bg-silver-light icon-circled icon-xl" href="#"> <i class="fa fa-cc-paypal  text-theme-colored"></i> </a>
-                    <h4 class="text-uppercase text-white-f1 font-weight-600">Online Payment</h4>
+                    <a class="icon bg-silver-light icon-circled icon-xl" href="#"><i class="fa fa-cogs text-theme-colored"></i> </a>
+                    <h4 class="text-uppercase text-white-f1 font-weight-600">Genuine Parts</h4>
                     <p class="text-white-f2 p-10">Eleifend lobortis bibendum volutpat est senectus duis convallis augue hendrerit senectus duis</p>
                   </div>
                 </div>
@@ -472,7 +472,7 @@
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled icon-xl" href="#"> <i class="fa fa-mobile  text-theme-colored"></i> </a>
-                    <h4 class="text-uppercase text-white-f1 font-weight-600">Call +(012) 345 6789</h4>
+                    <h4 class="text-uppercase text-white-f1 font-weight-600">Call +91 93340 98267</h4>
                     <p class="text-white-f2 p-10">Eleifend lobortis bibendum volutpat est senectus duis convallis augue hendrerit senectus duis</p>
                   </div>
                 </div>
@@ -481,7 +481,7 @@
           </div>
           <div class="row pb-10">
             <div class="col-md-12 text-center">
-              <h2 class="title font-42 text-theme-colored mt-60 mb-20">World Best RepairPro</h2>
+              <h2 class="title font-42 text-theme-colored mt-60 mb-20">Best Computer & Printer Repair Service</h2>
               <p class="mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam modi consequuntur maxime voluptates earum illo sunt, veritatis maiores doloribus ut id, nostrum. Temporibus odit quas illum eos dolores itaque facilis omnis beatae saepe eum. Odit labore vel temporibus quasi.</p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam modi consequuntur maxime voluptates earum illo sunt, veritatis maiores doloribus ut id, nostrum. Temporibus odit quas illum eos dolores itaque facilis omnis beatae saepe eum. Odit labore vel temporibus.</p>
               <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-30" href="#">RepairPro Details</a>
@@ -1080,8 +1080,8 @@
                   <i class="pe-7s-scissors text-white"></i>
                  </a>
                  <div class="icon-box-details ml-sm-0">
-                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0">Less CSS</h5>
-                  <p class="text-gray">Lorem ipsum dolor sit amet, consectetur.</p>
+                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0 fs-12">Genuine Parts</h5>
+                  <p class="text-gray">We are providing 100% genuine parts</p>
                  </div>
                 </div>
               </div>
@@ -1091,7 +1091,7 @@
                   <i class="pe-7s-pen text-white"></i>
                  </a>
                  <div class="icon-box-details ml-sm-0">
-                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0">ShortCode</h5>
+                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0 fs-12">Reasonable Price</h5>
                   <p class="text-gray">Lorem ipsum dolor sit amet, consectetur.</p>
                  </div>
                 </div>
@@ -1102,7 +1102,7 @@
                   <i class="pe-7s-tools text-white"></i>
                  </a>
                  <div class="icon-box-details ml-sm-0">
-                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0">Easy Customiz</h5>
+                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0 fs-12">On Site Repair</h5>
                   <p class="text-gray">Lorem ipsum dolor sit amet, consectetur.</p>
                  </div>
                 </div>
@@ -1113,7 +1113,7 @@
                   <i class="pe-7s-phone text-white"></i>
                  </a>
                  <div class="icon-box-details ml-sm-0">
-                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0">Responsive</h5>
+                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0 fs-12">1 Day Delivery</h5>
                   <p class="text-gray">Lorem ipsum dolor sit amet, consectetur.</p>
                  </div>
                 </div>
@@ -1124,7 +1124,7 @@
                   <i class="pe-7s-vector text-white"></i>
                  </a>
                  <div class="icon-box-details ml-sm-0">
-                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0">W3 validation</h5>
+                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0 fs-12">Computer Repairing</h5>
                   <p class="text-gray">Lorem ipsum dolor sit amet, consectetur.</p>
                  </div>
                 </div>
@@ -1135,7 +1135,7 @@
                   <i class="pe-7s-light text-white"></i>
                  </a>
                  <div class="icon-box-details ml-sm-0">
-                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0">Retina Ready</h5>
+                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0 fs-12">Laptop Repairing</h5>
                   <p class="text-gray">Lorem ipsum dolor sit amet, consectetur.</p>
                  </div>
                 </div>
@@ -1146,7 +1146,7 @@
                   <i class="pe-7s-rocket text-white"></i>
                  </a>
                  <div class="icon-box-details ml-sm-0">
-                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0">Google Speed Test</h5>
+                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0 fs-12">Printer Reapiring</h5>
                   <p class="text-gray">Lorem ipsum dolor sit amet, consectetur.</p>
                  </div>
                 </div>
@@ -1157,7 +1157,7 @@
                   <i class="pe-7s-photo text-white"></i>
                  </a>
                  <div class="icon-box-details ml-sm-0">
-                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0">Pingdom Test</h5>
+                  <h5 class="icon-box-title mt-15 text-uppercase letter-space-2 mb-0 fs-12">CCTV Installation</h5>
                   <p class="text-gray">Lorem ipsum dolor sit amet, consectetur.</p>
                  </div>
                 </div>
@@ -1168,220 +1168,7 @@
       </div>
     </section>
 
-    <!-- Section: Products  -->
-    <section class="bg-lighter">
-      <div class="container pt-70 pb-40">
-        <div class="row multi-row-clearfix">
-          <div class="col-md-12">
-              <h2 class="mt-0 line-height-1 text-center mb-30">Our <span class="text-theme-color-2"> Products</span></h2>
-            <div class="products owl-carousel-4col">
-              <div class="item">
-                <div class="product border-theme-colored">
-                  <span class="tag-sale">Sale!</span>
-                  <div class="product-thumb"> 
-                    <img alt="" src="{{ asset('public/site/images/products/1.jpg')}}" class="img-responsive img-fullwidth">
-                    <div class="overlay">
-                      <div class="btn-add-to-cart-wrapper">
-                        <a class="btn btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-cart.html" target="_blank">Add To Cart</a>
-                      </div>
-                      <div class="btn-product-view-details">
-                        <a class="btn btn-default btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-product-details.html" target="_blank">View detail</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="product-details text-center">
-                    <a href="#"><h5 class="product-title">Computer</h5></a>
-                    <div class="star-rating" title="Rated 3.50 out of 5"><span data-width="67%">3.50</span></div>
-                    <div class="price"><del><span class="amount">$110.00</span></del><ins><span class="amount">$90.00</span></ins></div>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="product border-theme-colored">
-                  <div class="product-thumb"> 
-                    <img alt="" src="{{ asset('public/site/images/products/2.jpg')}}" class="img-responsive img-fullwidth">
-                    <div class="overlay">
-                      <div class="btn-add-to-cart-wrapper">
-                        <a class="btn btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-cart.html" target="_blank">Add To Cart</a>
-                      </div>
-                      <div class="btn-product-view-details">
-                        <a class="btn btn-default btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-product-details.html" target="_blank">View detail</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="product-details text-center">
-                    <a href="#"><h5 class="product-title">Computer</h5></a>
-                    <div class="star-rating" title="Rated 5.00 out of 5"><span data-width="100%">5.00</span></div>
-                    <div class="price"><ins><span class="amount">$480.00</span></ins></div>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="product border-theme-colored">
-                  <span class="tag-sale">Sale!</span>
-                  <div class="product-thumb"> 
-                    <img alt="" src="{{ asset('public/site/images/products/3.jpg')}}" class="img-responsive img-fullwidth">
-                    <div class="overlay">
-                      <div class="btn-add-to-cart-wrapper">
-                        <a class="btn btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-cart.html" target="_blank">Add To Cart</a>
-                      </div>
-                      <div class="btn-product-view-details">
-                        <a class="btn btn-default btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-product-details.html" target="_blank">View detail</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="product-details text-center">
-                    <a href="#"><h5 class="product-title">Computer</h5></a>
-                    <div class="star-rating" title="Rated 3.50 out of 5"><span data-width="60%">3.50</span></div>
-                    <div class="price"><del><span class="amount">$70.00</span></del><ins><span class="amount">$55.00</span></ins></div>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="product border-theme-colored">
-                  <div class="product-thumb"> 
-                    <img alt="" src="{{ asset('public/site/images/products/4.jpg')}}" class="img-responsive img-fullwidth">
-                    <div class="overlay">
-                      <div class="btn-add-to-cart-wrapper">
-                        <a class="btn btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-cart.html" target="_blank">Add To Cart</a>
-                      </div>
-                      <div class="btn-product-view-details">
-                        <a class="btn btn-default btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-product-details.html" target="_blank">View detail</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="product-details text-center">
-                    <a href="#"><h5 class="product-title">Computer</h5></a>
-                    <div class="star-rating" title="Rated 3.50 out of 5"><span data-width="75%">3.50</span></div>
-                    <div class="price"><ins><span class="amount">$185.00</span></ins></div>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="product border-theme-colored">
-                  <span class="tag-sale">Sale!</span>
-                  <div class="product-thumb"> 
-                    <img alt="" src="{{ asset('public/site/images/products/5.jpg')}}" class="img-responsive img-fullwidth">
-                    <div class="overlay">
-                      <div class="btn-add-to-cart-wrapper">
-                        <a class="btn btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-cart.html" target="_blank">Add To Cart</a>
-                      </div>
-                      <div class="btn-product-view-details">
-                        <a class="btn btn-default btn-theme-colored btn-sm btn-flat pl-20 pr-20 btn-add-to-cart text-uppercase font-weight-700" href="shop-product-details.html" target="_blank">View detail</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="product-details text-center">
-                    <a href="#"><h5 class="product-title">Laptop</h5></a>
-                    <div class="star-rating" title="Rated 3.50 out of 5"><span data-width="40%">3.50</span></div>
-                    <div class="price"><del><span class="amount">$220.00</span></del><ins><span class="amount">$210.00</span></ins></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     
-
-    <!-- Section: Blog -->
-    <section id="blog" class="divider parallax layer-overlay overlay-dark-8" data-stellar-background-ratio="0.5" data-bg-img="{{ asset('public/site/images/bg/bg1.jpg')}}">
-      <div class="container pt-70 pb-70 pb-sm-40">
-        <div class="section-title text-center">
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="mt-0 mb-0 line-height-1 text-white">Latest <span class="text-theme-color-2">News</span></h2>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="{{ asset('public/site/images/blog/1.jpg')}}" alt="" class="img-responsive img-fullwidth"> 
-                  </div>                    
-                  <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                    <ul>
-                      <li class="font-16 text-white font-weight-600">28</li>
-                      <li class="font-12 text-white text-uppercase">Feb</li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="entry-content bg-white border-1px p-20">
-                  <h4 class="entry-title text-uppercase letter-space-1"><a href="blog-single-left-sidebar.html">Post The Title Here </a></h4>
-                  <p class="mt-15">Lorem ipsum dolor sit amet, consect eturadi piscing elit. Nulla auctor, erat nec effician turpharetra, metus ligula finibus</p>                  
-                  <div class="entry-meta mt-20 mb-10">
-                    <ul class="list-inline font-13 mb-10">
-                      <li><i class="fa fa-heart-o text-theme-colored font-12 mr-10"></i>480 Like</li>
-                      <li><i class="fa fa-share-alt text-theme-colored font-12 mr-10"></i>42 Share</li>
-                      <li><i class="fa fa-comment-o text-theme-colored font-12 mr-10"></i>48 Comments</li>
-                    </ul>
-                  </div>
-                  <div class="mt-20"> <a href="blog-single-left-sidebar.html" class="btn btn-theme-colored btn-sm">Read More</a> </div>                  
-                </div>
-              </article>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="{{ asset('public/site/images/blog/2.jpg')}}" alt="" class="img-responsive img-fullwidth"> 
-                  </div>                    
-                  <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                    <ul>
-                      <li class="font-16 text-white font-weight-600">28</li>
-                      <li class="font-12 text-white text-uppercase">Feb</li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="entry-content bg-white border-1px p-20">
-                  <h4 class="entry-title text-uppercase letter-space-1"><a href="blog-single-left-sidebar.html">Post The Title Here </a></h4>
-                  <p class="mt-15">Lorem ipsum dolor sit amet, consect eturadi piscing elit. Nulla auctor, erat nec effician turpharetra, metus ligula finibus</p>                  
-                  <div class="entry-meta mt-20 mb-10">
-                    <ul class="list-inline font-13 mb-10">
-                      <li><i class="fa fa-heart-o text-theme-colored font-12 mr-10"></i>480 Like</li>
-                      <li><i class="fa fa-share-alt text-theme-colored font-12 mr-10"></i>42 Share</li>
-                      <li><i class="fa fa-comment-o text-theme-colored font-12 mr-10"></i>48 Comments</li>
-                    </ul>
-                  </div>
-                  <div class="mt-20"> <a href="blog-single-left-sidebar.html" class="btn btn-theme-colored btn-sm">Read More</a> </div>                  
-                </div>
-              </article>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="{{ asset('public/site/images/blog/3.jpg')}}" alt="" class="img-responsive img-fullwidth"> 
-                  </div>                    
-                  <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                    <ul>
-                      <li class="font-16 text-white font-weight-600">28</li>
-                      <li class="font-12 text-white text-uppercase">Feb</li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="entry-content bg-white border-1px p-20">
-                  <h4 class="entry-title text-uppercase letter-space-1"><a href="blog-single-left-sidebar.html">Post The Title Here </a></h4>
-                  <p class="mt-15">Lorem ipsum dolor sit amet, consect eturadi piscing elit. Nulla auctor, erat nec effician turpharetra, metus ligula finibus</p>                  
-                  <div class="entry-meta mt-20 mb-10">
-                    <ul class="list-inline font-13 mb-10">
-                      <li><i class="fa fa-heart-o text-theme-colored font-12 mr-10"></i>480 Like</li>
-                      <li><i class="fa fa-share-alt text-theme-colored font-12 mr-10"></i>42 Share</li>
-                      <li><i class="fa fa-comment-o text-theme-colored font-12 mr-10"></i>48 Comments</li>
-                    </ul>
-                  </div>
-                  <div class="mt-20"> <a href="blog-single-left-sidebar.html" class="btn btn-theme-colored btn-sm">Read More</a> </div>                  
-                </div>
-              </article>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     
     <!-- Divider: Clients -->
     <section class="clients bg-theme-colored">

@@ -19,7 +19,7 @@
 //Front Home Page
 Route::get('/', 'HomeController@index')->name('home');
 Route::get('blog', 'SiteController@blog')->name('blog');
-
+Route::get('/about', 'SiteController@about')->name('about');
 
 //User Login Routes
 //Route::get('/login', 'Auth\LoginController@showLogin')->name('showLogin');
