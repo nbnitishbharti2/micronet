@@ -17,7 +17,7 @@
             @endif
         </div>
       <div class="login-logo">
-        <label>Banane Wala</label>
+        <label>Micronet Services</label>
     </div>
     <!-- /.login-logo -->
     <div class="card">

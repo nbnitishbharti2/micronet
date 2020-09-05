@@ -6,8 +6,7 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Auth;
 use Log;
-use App\Model\Admin;
-use App\Model\User;
+use App\Model\Admin; 
 use Validator;
 use File;
 
@@ -20,9 +19,9 @@ class AdminController extends Controller
     {
     	$data = array();
         $data['pageTitle'] = 'Dashboard';
-        $data['totalUsers'] = User::all()->count();
-        $data['mentors'] = User::all()->where('user_type', 'User')->count();
-        $data['fighters'] = User::all()->where('user_type', 'Partner')->count();
+        $data['totalUsers'] = 1;
+        $data['mentors'] = 1;
+        $data['fighters'] = 1;
         return view('admin.dashboard',$data);
     }
 
